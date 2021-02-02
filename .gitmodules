@@ -1,0 +1,3 @@
+[submodule "PyORBIT_examples"]
+	path = PyORBIT_examples
+	url = https://github.com/tnakaicode/PyORBIT_examples.git
